@@ -1,10 +1,9 @@
 # Title: Cars detection using Python and OpenCV.
-# Author: @CodeProgrammer "On Telegram" || @PythonSy "On Instagram".
+# Author: @Chrisalex kelelema.
 """
 you need to install OpenCV by using this command in the terminal:
 pip install opencv-python
 and download "cars.xml" from GitHub.
-for more codes you can visit our channel on Telegram: @CodeProgrammer.
 """
 import cv2
 
