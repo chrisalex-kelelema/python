@@ -1,5 +1,5 @@
 # Title: Spelling Checker in Python.
-# Author: @CodeProgrammer "On Telegram" || @PythonSy "On Instagram".
+# Author: @Chrisalex"On Telegram" || @PythonSy "On Instagram".
 """
 you need to install PyPDF2 by using this command in the terminal:
 pip install PyPDF2
